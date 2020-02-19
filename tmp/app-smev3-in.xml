@@ -1,0 +1,9 @@
+<tns:ESIADataVerifyRequest xmlns:tns="urn://mincomsvyaz/esia/uprid/1.4.2" xmlns:ns2="urn://mincomsvyaz/esia/commons/rg_sevices_types/1.4.2">
+    <tns:RoutingCode>TESIA</tns:RoutingCode>
+    <tns:passportSeries>1111</tns:passportSeries>
+    <tns:passportNumber>111111</tns:passportNumber>
+    <tns:lastName>Тестов</tns:lastName>
+    <tns:firstName>Тест</tns:firstName>
+    <tns:middleName>Тестович</tns:middleName>
+    <tns:snils>229-785-346 20</tns:snils>
+</tns:ESIADataVerifyRequest>
