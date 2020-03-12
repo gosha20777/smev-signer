@@ -1,4 +1,0 @@
-<ns2:AckRequest xmlns:ns3="urn://x-artefacts-smev-gov-ru/services/message-exchange/types/faults/1.1" xmlns:ns2="urn://x-artefacts-smev-gov-ru/services/message-exchange/types/1.1" xmlns="urn://x-artefacts-smev-gov-ru/services/message-exchange/types/basic/1.1">
-    <ns2:AckTargetMessage xmlns:ns2="urn://x-artefacts-smev-gov-ru/services/message-exchange/types/basic/1.1" xmlns="urn://x-artefacts-smev-gov-ru/services/message-exchange/types/1.1" Id="SIGNED_BY_CALLER" accepted="true">#MESSAGE_ID#</ns2:AckTargetMessage>
-    <ns2:CallerInformationSystemSignature></ns2:CallerInformationSystemSignature>
-</ns2:AckRequest>
