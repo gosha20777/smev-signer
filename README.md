@@ -40,7 +40,7 @@ $ mkdir bin && cd bin
 6. install your key
 
 # build
-$ cd smev-client/smev-java-protopype/src
+$ cd smev-client/src
 $ ../bin/jdk/bin/javac *.java
 
 # run
